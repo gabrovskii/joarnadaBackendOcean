@@ -22,3 +22,6 @@ Utilizando as aplicações desenvolvidas nas aulas de Backend com NodeJs e Expre
 
 Instrutores: Foto do Instrutor
 Paulo Salvatore
+
+
+MIRO: https://miro.com/app/board/uXjVMq72ibQ=/

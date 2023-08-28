@@ -2,4 +2,7 @@
 npm init -y = iniciar projeto (-y cria o projeto do modelo padrão)
 node nome_do_arquivo (executa o arquivo no console);
 console.log("hello world"); (manda uma mensagem para o console)
+npm install = cria o arquivo package-lock.json
+npm install express = o express a
+node index.js = executa o localhost o index.js
 */
