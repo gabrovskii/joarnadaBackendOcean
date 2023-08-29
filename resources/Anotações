@@ -5,4 +5,5 @@ console.log("hello world"); (manda uma mensagem para o console)
 npm install = cria o arquivo package-lock.json
 npm install express = o express a
 node index.js = executa o localhost o index.js
+Em package.json, os scripts start e dev são intruções para executar o código em "produção [npm install --save-dev nodemon]"
 */
