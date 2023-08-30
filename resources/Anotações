@@ -6,4 +6,5 @@ npm install = cria o arquivo package-lock.json
 npm install express = o express a
 node index.js = executa o localhost o index.js
 Em package.json, os scripts start e dev são intruções para executar o código em "produção [npm install --save-dev nodemon]"
+iniciando MongoDB: sudo systemctl status mongo/sudo systemctl start mongo/ abrir o mongo db pass/ mais informações em -> https://www.google.com/search?channel=fs&client=ubuntu-sn&q=how+to+install+mongodb+in+ubuntu#fpstate=ive&vld=cid:d3e83099,vid:HSIh8UswVVY
 */
